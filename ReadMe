@@ -31,7 +31,6 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 
 <img width="1350" height="592" alt="image" src="https://github.com/user-attachments/assets/9f1bf871-59cb-4de1-ac4a-73d58d850e19" />
 
-
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
